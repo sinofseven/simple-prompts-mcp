@@ -18,6 +18,10 @@ dependencies = [
 [project.scripts]
 simple-prompts-mcp = "simple_prompts_mcp:main"
 
+[project.urls]
+Homepage = "https://github.com/sinofseven/simple-prompts-mcp"
+Issues = "https://github.com/sinofseven/simple-prompts-mcp/issues"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
