@@ -1,12 +1,13 @@
 [project]
 name = "simple-prompts-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple Prompt MCP Server"
 readme = "README.md"
 authors = [
     { name = "sinofseven", email = "em.s.00001@gmail.com" }
 ]
 requires-python = ">=3.11"
+license = { text = "MIT" }
 dependencies = [
     "mcp[cli]==1.8.1",
     "pydantic==2.11.4",
