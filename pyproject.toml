@@ -1,6 +1,6 @@
 [project]
 name = "simple-prompts-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Simple Prompt MCP Server"
 readme = "README.md"
 authors = [
